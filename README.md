@@ -24,11 +24,12 @@ Python + FastApi
 [Certified AWS Solution Architect Associate](https://www.credly.com/badges/329e4e13-4262-4a42-981d-526f80bdbaa5/linked_in_profile)
 
 ## Other Technologies:
+- **Backend:**  Node + NestJs/Express (few years and mostly along with other backend technologies)  
 - **Databases:**  PostgreSQL, DynamoDB  
 - **ML/AI:**  PyTorch, TensorFlow, SageMaker, BedRock  
 - **Testing:**  Mockito, Pytest, Cypress
 - **Frontend:**  React Query, Zustand, Redux Toolkit, CSS  
-- **Tools:**  Git, Scrum, RabbitMQ, Kafka  
+- **Tools:**  Git, Scrum, RabbitMQ, Kafka, SQS  
 
 ## Experience.
 
