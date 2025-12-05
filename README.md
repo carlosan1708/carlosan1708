@@ -1,6 +1,6 @@
-# Senior Full-Stack Engineer & Tech Lead | AI & Web Solutions
+# Senior Software Engineer & Tech Lead | AI & Web Solutions
 
-8+ years of experience specialized in web Full-stack software products and AI-driven solutions. Proven in delivering high-quality code, help architecting systems, leading teams.
+10+ years of experience specialized in web Full-stack software products and AI-driven solutions. Proven in delivering high-quality code, help architecting systems, leading teams.
 
 MS in Computer Science | AI degree | AWS Certified
 
@@ -8,36 +8,42 @@ Passionate about performance, clean code, and mentoring engineers.
 
 ## Tecnologies:
 
-React 
+Cloud
 
-<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/react.png" alt="icon" width="50" height="50"> 
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/aws.png" alt="icon" width="50" height="50">
 
-Java + SpringBoot 
 
-<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/java.png" alt="icon" width="50" height="50"> <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/spring_boot.png" alt="icon" width="50" height="50">
+Machine Learning
 
-Python + FastApi 
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/tensorflow.png" alt="icon" width="50" height="50"> <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/langchain_icon.png" alt="icon" width="50" height="50">
 
-<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png" alt="icon" width="50" height="50"> <img src="https://icon.icepanel.io/Technology/svg/FastAPI.svg" alt="icon" width="50" height="50">
+Backend Technologies:
+
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png" alt="icon" width="50" height="50"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/java.png" alt="icon" width="50" height="50">
+
+
+Frontend Technologies:
+
+<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/react.png" alt="icon" width="50" height="50"> <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/typescript.png" alt="icon" width="50" height="50"> 
+
+Frameworks:
+
 
 ## Certifications
+[Certified AWS Machine Learning Associate](https://www.credly.com/badges/b7e56a13-f888-481a-87aa-036ffd88dbbc/linked_in_profile)
+
 [Certified AWS Solution Architect Associate](https://www.credly.com/badges/329e4e13-4262-4a42-981d-526f80bdbaa5/linked_in_profile)
 
 ## Other Technologies:
-- **Databases:**  PostgreSQL, DynamoDB  
-- **ML/AI:**  PyTorch, TensorFlow, SageMaker, BedRock  
+- **Databases:**  PostgreSQL, DynamoDB, Redis  
+- **ML/AI:**  PyTorch, SageMaker, BedRock  
 - **Testing:**  Mockito, Pytest, Cypress
 - **Frontend:**  React Query, Zustand, Redux Toolkit, CSS  
 - **Tools:**  Git, Scrum, RabbitMQ, Kafka, SQS  
 
-## Experience.
-
-- 5 Years Senior Full-Stack/ Technical Lead - Cargill. (Multiple projects, 2 of them with AI solutions)
-- 2 Years Software Engineer - Manhattan Associates as contractor under Gorilla Logic, CR.
-- 1+  Years Software Engineer - Neustar (Now known as TransUnion).
   
 ## Education:
-- Master's Degree Computer Science by UOC, Spain
+- Master's Degree Computer Science by UOC, Spain. (Final Project - AI - Object Recognition + Segmentation )
 - Bachelor's Degree Computer Science by TEC, Costa Rica.
 - AI Degree by Cenfotec, Costa Rica.
 
