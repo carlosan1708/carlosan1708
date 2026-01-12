@@ -26,20 +26,18 @@ Frontend Technologies:
 
 <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/react.png" alt="icon" width="50" height="50"> <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/typescript.png" alt="icon" width="50" height="50"> 
 
-Frameworks:
-
-
 ## Certifications
 [Certified AWS Machine Learning Associate](https://www.credly.com/badges/b7e56a13-f888-481a-87aa-036ffd88dbbc/linked_in_profile)
 
 [Certified AWS Solution Architect Associate](https://www.credly.com/badges/329e4e13-4262-4a42-981d-526f80bdbaa5/linked_in_profile)
 
 ## Other Technologies:
-- **Databases:**  PostgreSQL, DynamoDB, Redis  
-- **ML/AI:**  PyTorch, SageMaker, BedRock  
+- **Databases:**  PostgreSQL, DynamoDB, Redis, ChromaDB  
+- **ML/AI:**  PyTorch, Tensorflow, Langchain/Langgraph, SageMaker, BedRock  
 - **Testing:**  Mockito, Pytest, Cypress
 - **Frontend:**  React Query, Zustand, Redux Toolkit, CSS  
-- **Tools:**  Git, Scrum, RabbitMQ, Kafka, SQS  
+- **Tools:**  Git, Scrum, Kafka, SQS, Cline, Copilot
+- **DevOps/MLOps:** Docker, Terraform, CloudFormation
 
   
 ## Education:
