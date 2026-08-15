@@ -86,12 +86,14 @@ Seasoned **AI Engineer** with a decade of experience building robust full-stack 
       </p>
     </td>
     <td width="50%" valign="top">
-      <h4>🧑‍⚖️ <a href="https://github.com/carlosan1708/ai-cv-advisory-board">AI CV Advisory Board</a></h4>
-      <p>An <b>agentic CV analyzer</b> — a board of specialized AI agents collaborates to review and advise on a résumé from multiple perspectives.</p>
+      <h4>🧑‍⚖️ <a href="https://github.com/carlosan1708/ai-cv-advisory-board-production">AI CV Advisory Board — Production</a></h4>
+      <p>An <b>evidence-grounded career workspace</b> with a selectable Gemini advisory panel, application tracking, immutable CV versions, deterministic evaluations, and hard security and cost controls.</p>
+      <p><a href="https://ai-cv-advisory-board-production-142795288331.us-central1.run.app/"><b>Open live application →</b></a></p>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
-        <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white">
-        <img src="https://img.shields.io/badge/Agents-5A2D82?style=flat-square">
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white">
+        <img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white">
+        <img src="https://img.shields.io/badge/Cloud%20Run-4285F4?style=flat-square&logo=googlecloud&logoColor=white">
       </p>
     </td>
   </tr>
