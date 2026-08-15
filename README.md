@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Carlos Andrés Rodríguez Trigueros 👋</h1>
 
-<h3 align="center">AI Engineer · Senior Software Engineer · Technical Lead</h3>
+<h3 align="center">Senior AI Engineer · AI Technical Lead</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/carlosan1708"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
@@ -78,6 +78,7 @@ Seasoned **AI Engineer** with a decade of experience building robust full-stack 
     <td width="50%" valign="top">
       <h4>🧳 <a href="https://github.com/carlosan1708/trip-itinerary-displayer">Trip Itinerary Displayer</a></h4>
       <p>AI-powered travel platform where an <b>LLM agent</b> generates and edits day-by-day trips via <b>structured output (merge-patch)</b> with human-in-the-loop review.</p>
+      <p><a href="https://mi-itinerario.web.app"><b>Live app →</b></a> · <a href="https://github.com/carlosan1708/trip-itinerary-displayer">Source</a></p>
       <p>
         <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black">
         <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white">
@@ -88,7 +89,7 @@ Seasoned **AI Engineer** with a decade of experience building robust full-stack 
     <td width="50%" valign="top">
       <h4>🧑‍⚖️ <a href="https://github.com/carlosan1708/ai-cv-advisory-board-production">AI CV Advisory Board — Production</a></h4>
       <p>An <b>evidence-grounded career workspace</b> with a selectable Gemini advisory panel, application tracking, immutable CV versions, deterministic evaluations, and hard security and cost controls.</p>
-      <p><a href="https://ai-cv-advisory-board-production-142795288331.us-central1.run.app/"><b>Open live application →</b></a></p>
+      <p><a href="https://ai-cv-advisory-board-production-142795288331.us-central1.run.app/"><b>Live app →</b></a> · <a href="https://github.com/carlosan1708/ai-cv-advisory-board-production">Source</a></p>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
         <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white">
@@ -101,6 +102,7 @@ Seasoned **AI Engineer** with a decade of experience building robust full-stack 
     <td width="50%" valign="top">
       <h4>🗃️ <a href="https://github.com/carlosan1708/ai-sql-streamlit">AI SQL Agent</a></h4>
       <p>A natural-language <b>SQL agent</b> that translates questions into queries and returns results through an interactive Streamlit UI.</p>
+      <p><a href="https://github.com/carlosan1708/ai-sql-streamlit/blob/main/demo.gif"><b>Demo →</b></a> · <a href="https://github.com/carlosan1708/ai-sql-streamlit">Source</a></p>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
         <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white">
@@ -108,27 +110,21 @@ Seasoned **AI Engineer** with a decade of experience building robust full-stack 
       </p>
     </td>
     <td width="50%" valign="top">
-      <h4>🏋️ <a href="https://github.com/carlosan1708/training-ai-coach">Training AI Coach</a></h4>
-      <p>An AI-driven coaching app that generates personalized training guidance, built with a modern TypeScript stack.</p>
-      <p>
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white">
-        <img src="https://img.shields.io/badge/LLM-5A2D82?style=flat-square">
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
       <h4>☀️ <a href="https://github.com/carlosan1708/MasterTFM">Solar Panel Detection (MSc)</a></h4>
       <p>Master's thesis project — a <b>Computer Vision</b> model for solar panel detection / segmentation from imagery using PyTorch.</p>
+      <p><a href="https://costa-rica-solar.uc.r.appspot.com"><b>Live app →</b></a> · <a href="https://github.com/carlosan1708/MasterTFM">Source</a></p>
       <p>
         <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white">
         <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white">
         <img src="https://img.shields.io/badge/Computer%20Vision-5A2D82?style=flat-square">
       </p>
     </td>
-    <td width="50%" valign="top">
+  </tr>
+  <tr>
+    <td width="100%" colspan="2" valign="top">
       <h4>💬 <a href="https://github.com/carlosan1708/fullstack-chatgpt-basic-bot">Full-Stack ChatGPT Bot</a></h4>
       <p>A full-stack conversational AI application demonstrating end-to-end LLM integration in a production-style web app.</p>
+      <p><a href="https://github.com/carlosan1708/fullstack-chatgpt-basic-bot"><b>View source →</b></a></p>
       <p>
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white">
         <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white">
@@ -146,7 +142,7 @@ Seasoned **AI Engineer** with a decade of experience building robust full-stack 
 
 | Company | Role | Period |
 |---------|------|--------|
-| **Lamina** (West Monroe Portfolio) | Senior Software Engineer / AI | Oct 2025 – Present |
+| **Lamina** (West Monroe Portfolio) | Senior AI Software Engineer | Oct 2025 – Present |
 | **Cargill** | Senior Software Engineer / AI & Technical Lead | May 2020 – Aug 2025 |
 | **Cenfotec** (University) | Data Science Co-Professor | May 2019 – May 2020 |
 | **Gorilla Logic** (Manhattan Associates) | Software Engineer | Aug 2018 – May 2020 |
