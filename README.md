@@ -100,13 +100,14 @@ Seasoned **AI Engineer** with a decade of experience building robust full-stack 
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h4>🗃️ <a href="https://github.com/carlosan1708/ai-sql-streamlit">AI SQL Agent</a></h4>
-      <p>A natural-language <b>SQL agent</b> that translates questions into queries and returns results through an interactive Streamlit UI.</p>
-      <p><a href="https://github.com/carlosan1708/ai-sql-streamlit/blob/main/demo.gif"><b>Demo →</b></a> · <a href="https://github.com/carlosan1708/ai-sql-streamlit">Source</a></p>
+      <h4>🏠 <a href="https://github.com/carlosan1708/house-planner-portfolio">House Planner</a></h4>
+      <p>A bilingual construction workspace with a <b>permission-aware Gemini assistant</b>, reviewable budget proposals, and protected documents. The <b>synthetic demo</b> uses scripted assistant examples; architecture and Spec Kit development evidence are included.</p>
+      <p><a href="https://house-planner-prod-173941028457.us-central1.run.app/?mode=demo&amp;lang=en"><b>Synthetic demo →</b></a> · <a href="https://github.com/carlosan1708/house-planner-portfolio">Source</a> · <a href="https://github.com/carlosan1708/house-planner-portfolio/blob/main/docs/development/sdd.md">Development approach</a></p>
       <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
-        <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white">
-        <img src="https://img.shields.io/badge/SQL-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white">
+        <img src="https://img.shields.io/badge/Next.js-111827?style=flat-square&amp;logo=next.js&amp;logoColor=white" alt="Next.js">
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&amp;logo=typescript&amp;logoColor=white" alt="TypeScript">
+        <img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&amp;logo=googlegemini&amp;logoColor=white" alt="Gemini">
+        <img src="https://img.shields.io/badge/Cloud_Run-4285F4?style=flat-square&amp;logo=googlecloud&amp;logoColor=white" alt="Cloud Run">
       </p>
     </td>
     <td width="50%" valign="top">
