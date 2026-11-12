@@ -19,6 +19,7 @@ Seasoned **AI Engineer** with a decade of experience building robust full-stack 
 - ⚡ Designing **serverless, AWS-native AI pipelines** built for scale, cost-efficiency, and reliability
 - 🧠 Background spanning **Generative AI, Computer Vision (PyTorch), and large-scale data engineering**
 - 🎓 MS in Computer Science · 🏅 **AWS ML Specialty** + **AWS Solutions Architect** certified
+- Claude Certified Architect (Foundations and Professional), Anthropic
 
 ---
 
@@ -143,7 +144,7 @@ Seasoned **AI Engineer** with a decade of experience building robust full-stack 
 
 | Company | Role | Period |
 |---------|------|--------|
-| **Lamina** (West Monroe Portfolio) | Senior AI Software Engineer | Oct 2025 – Present |
+| **Lamina** (West Monroe Portfolio) | Senior AI Software Engineer | Aug 2025 – Present |
 | **Cargill** | Senior Software Engineer / AI & Technical Lead | May 2020 – Aug 2025 |
 | **Cenfotec** (University) | Data Science Co-Professor | May 2019 – May 2020 |
 | **Gorilla Logic** (Manhattan Associates) | Software Engineer | Aug 2018 – May 2020 |
@@ -156,6 +157,11 @@ Seasoned **AI Engineer** with a decade of experience building robust full-stack 
 - 🎓 **MS in Computer Science** — Universitat Oberta de Catalunya, Spain (2023) · *Final Project: AI — Object Recognition + Segmentation*
 - 🎓 **BS in Computer Science** — Instituto Tecnológico de Costa Rica (2017)
 - 📊 **Specialization in Data Analytics & Big Data** — Cenfotec, Costa Rica (2018)
+
+**Anthropic Certifications**
+
+- [Claude Certified Architect - Foundations](https://www.credly.com/badges/c009756f-5924-4d38-bc52-9c2e85682a59/public_url)
+- [Claude Certified Architect - Professional](https://www.credly.com/badges/a2bd16b5-cd9d-4b41-a4c5-11b0e2b2c50a/public_url)
 
 **AWS Certifications**
 
