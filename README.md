@@ -160,8 +160,8 @@ Seasoned **AI Engineer** with a decade of experience building robust full-stack 
 
 **Anthropic Certifications**
 
-- [Claude Certified Architect - Foundations](https://www.credly.com/badges/c009756f-5924-4d38-bc52-9c2e85682a59/public_url)
-- [Claude Certified Architect - Professional](https://www.credly.com/badges/a2bd16b5-cd9d-4b41-a4c5-11b0e2b2c50a/public_url)
+[![Claude Certified Architect - Foundations](https://img.shields.io/badge/Anthropic-Claude%20Certified%20Architect%20--%20Foundations-D97757?style=flat-square&logo=anthropic&logoColor=white)](https://www.credly.com/badges/c009756f-5924-4d38-bc52-9c2e85682a59/public_url)
+[![Claude Certified Architect - Professional](https://img.shields.io/badge/Anthropic-Claude%20Certified%20Architect%20--%20Professional-D97757?style=flat-square&logo=anthropic&logoColor=white)](https://www.credly.com/badges/a2bd16b5-cd9d-4b41-a4c5-11b0e2b2c50a/public_url)
 
 **AWS Certifications**
 
